@@ -17,7 +17,7 @@ nota3 = float(input("Ingresa la nota 3 del parcial: "))
 
 list1 = [nota1, nota2, nota3]
 dic1 = {
-    nombre1 : list1,
+    nombre1 : list1
 }
 
 print(f"MENÚ DE OPCIONES\n Usa las claves para desplazarte por el menu\n ADD: AGREGAR NUEVO ESTUDIANTE\n MODIFY: MODIFICAR NOTAS DE UN ESTUDIANTE\n DEL: REMOVER UN ESTUDIANTE\n TMP: NOTAS FINALES")
